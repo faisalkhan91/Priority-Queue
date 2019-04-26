@@ -1,0 +1,70 @@
+# depslib dependency file v1.0
+1491624718 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch9_pq\exercise7.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cctype>
+	<cstring>
+	<vector>
+	"PQType.h"
+	"tools.hpp"
+
+1491624689 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch9_pq\pqtype.h
+	<string>
+	<string.h>
+	<iostream>
+	<ostream>
+	<fstream>
+	<cctype>
+	<cstring>
+	"Heap.h"
+	"NewHeap.h"
+	"BinarySearchTree.h"
+	"LinkedList.h"
+
+1489105242 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch9_pq\heap.h
+
+1491613009 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch9_pq\newheap.h
+	<string>
+	<string.h>
+	<iostream>
+
+1491605151 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch9_pq\binarysearchtree.h
+
+1491609561 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch9_pq\linkedlist.h
+
+1491617312 c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch9_pq\tools.hpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<iomanip>
+	<string>
+	<algorithm>
+	<iterator>
+	<functional>
+	<limits>
+	<vector>
+	<queue>
+	<deque>
+	<list>
+	<set>
+	<map>
+	<stack>
+	<stdexcept>
+	<random>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<cmath>
+	<ctime>
+	<cctype>
+	<climits>
+	<cfloat>
+	<cstdarg>
+	<cassert>
+
+1489195728 source:c:\users\faisa\onedrive\documents\university of new haven\spring 2017\data structures\exercises\programming and written exercise 6\programming exercise 6\cpppds_ch9_pq\tools.cpp
+	"tools.hpp"
+	<windows.h>
+	<unistd.h>
+

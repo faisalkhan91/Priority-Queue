@@ -1,0 +1,287 @@
+xxx
+Queue is empty.
+5 is enqueued.
+7 is enqueued.
+6 is enqueued.
+9 is enqueued.
+9 is dequeued. 
+7 is dequeued. 
+6 is dequeued. 
+5 is dequeued. 
+2 is enqueued.
+3 is enqueued.
+3 is enqueued.
+4 is enqueued.
+4 is dequeued. 
+3 is dequeued. 
+3 is dequeued. 
+2 is dequeued. 
+5 is enqueued.
+5 is dequeued. 
+3 is enqueued.
+7 is enqueued.
+7 is dequeued. 
+3 is dequeued. 
+Queue is empty.
+2 is enqueued.
+Queue is not empty.
+2 is dequeued. 
+Queue is empty.
+EmtpyQueue exception thrown.
+2 is enqueued.
+3 is enqueued.
+3 is enqueued.
+4 is enqueued.
+Queue is not full.
+1 is enqueued.
+Queue is full.
+FullQueue exception thrown.
+4 is dequeued. 
+2 is enqueued.
+3 is dequeued. 
+3 is dequeued. 
+2 is dequeued. 
+2 is dequeued. 
+Queue is empty.
+EmtpyQueue exception thrown.
+
+[Heap]
+
+
+[Heap]
+
+0 is enqueued.
+
+[Heap]
+
+i is enqueued.
+
+[Heap]
+
+i is enqueued.
+f is enqueued.
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+
+[Heap]
+
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+
+[Heap]
+
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+
+[Heap]
+
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+
+[Heap]
+
+0 is enqueued.
+0 is enqueued.
+
+[Heap]
+
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+
+[Heap]
+
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+
+[Heap]
+
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+
+[Heap]
+
+
+[Heap]
+
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+
+[Heap]
+
+1 is enqueued.
+5 is enqueued.
+2 is enqueued.
+10 is enqueued.
+5 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+
+[Heap]
+
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+0 is enqueued.
+
+[Heap]
+
+5 is enqueued.
+
+[Heap]
+
+0 is enqueued.
+0 is enqueued.
+
+[Heap]
+
+9 is enqueued.
+3 is enqueued.
+5 is enqueued.
+
+[Heap]
+
+1 is enqueued.
+2 is enqueued.
+3 is enqueued.
+4 is enqueued.
+
+[Heap]
+
+
+[Heap]
+
+5 is enqueued.
+7 is enqueued.
+3 is enqueued.
+2 is enqueued.
+-1 is enqueued.
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+
+[Heap]
+
+5 is enqueued.
+21 is enqueued.
+-22 is enqueued.
+41 is enqueued.
+48 is enqueued.
+23 is enqueued.
+-6 is enqueued.
+80 is enqueued.
+82 is enqueued.
+36 is enqueued.
+-54 is enqueued.
+-78 is enqueued.
+-80 is enqueued.
+
+[Heap]
+
+11 is enqueued.
+5 is enqueued.
+16 is enqueued.
+3 is enqueued.
+7 is enqueued.
+13 is enqueued.
+18 is enqueued.
+2 is enqueued.
+6 is enqueued.
+12 is enqueued.
+14 is enqueued.
+17 is enqueued.
+19 is enqueued.
+1 is enqueued.
+4 is enqueued.
+8 is enqueued.
+14 is enqueued.
+20 is enqueued.
+9 is enqueued.
+
+[Heap]
+
+-75 is enqueued.
+-22 is enqueued.
+79 is enqueued.
+32 is enqueued.
+5 is enqueued.
